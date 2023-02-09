@@ -1,0 +1,6 @@
+name: sample-apt-golang
+services:
+- name: web
+  github:
+    repo: digitalocean/sample-apt-golang
+    branch: main
